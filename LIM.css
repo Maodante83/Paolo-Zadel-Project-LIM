@@ -1,0 +1,108 @@
+body{
+ background-image:url(background.jpg);
+ background-size: 100%;
+ background-size: cover;
+}
+
+
+#box1{
+ position: absolute;
+ text-align: center;
+ top: 20px;
+ bottom: 70px;
+ left: 210px;
+ width: 500px;
+ padding: 230px;
+ border-radius: 20px;
+ background-color: rgba(0, 0, 0, 0.5);
+}
+
+
+.logo{
+  position: relative;
+  margin:auto;
+  width: 190px;
+  top: -150px;
+  left: 35px;
+}
+
+
+.testo{
+  position: relative;
+  margin:auto;
+  top: -150px;
+  font-size: 25px;
+  font-family: "Candara";
+  color: limegreen;
+}
+
+
+#box2{
+ position: relative;
+ top: -145px;
+ right: 100px;
+ padding: 7px;
+ width: 750px;
+ font-size: 15px;
+ background-color:limegreen;
+}
+
+
+.button{
+  font-size: 10px;
+}
+
+
+#box3{
+ position: relative;
+ top: -120px;
+ color: white;
+ font-family: Helvetica, sans-serif;
+ text-align: left;
+ bottom:10px;
+ right:100px;
+ line-height : 1.5;
+}
+
+
+.font-name{
+  font-size: 18px;
+  font-family: Helvetica, sans-serif;
+}
+
+
+.font-info{
+  font-size: 13px;
+  color:white;
+  font-family: Helvetica, sans-serif;
+  text-align: left;
+}
+
+
+.barra1{
+  background-color: orange;
+  margin:0;
+  border: 0;
+  height: 25px;
+  width: 250px;
+  border-radius: 5px;
+}
+
+
+.barra2{
+  background-color: limegreen;
+  margin:0;
+  border: 0;
+  height: 25px;
+  border-radius: 5px;
+}
+
+
+.barra3{
+  background-color: indianred;
+  margin:0;
+  border: 0;
+  height: 25px;
+  width: 130px;
+  border-radius: 5px;
+}
